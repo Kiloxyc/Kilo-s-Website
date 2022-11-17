@@ -1,6 +1,44 @@
 body {
-    color: blue;
-    background-color: orange;
+    
+    background-color: rgb(184, 184, 184);
 
 
 }
+body .container #header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    
+
+}
+
+
+body .container #header a:hover{
+    color: white;
+}
+
+
+body .container #header a:active{
+    color: black;
+}
+
+body .container #header a:visited{
+    
+}
+
+body .container #p-box{
+    color: black;
+    border: black 3px solid;
+    width: 600px;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(148, 202, 219);
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+    
+    
